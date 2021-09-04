@@ -2,8 +2,6 @@
 This is the first file in the repo.
 
 
-##Ipsum Below
+##Website Contents
 
-This is the greatest day.
-
-This is again
+This is what
